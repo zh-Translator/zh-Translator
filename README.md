@@ -1,7 +1,8 @@
 Hi there! Just a translator. (◍•ᴗ•◍)
 
 ### 📌 Focus
-*   🇨🇳 **Main focus:** Chinese (zh-CN & zh-TW) - *Blazing fast: usually 1-4 hours for most projects.*
+*   🇨🇳 **Main focus:** Chinese (zh-CN & zh-TW) - *Blazing fast: 40 mins to 4 hours for standard projects.*
+*   ⚡ **Complex projects:** Will take longer (no fixed ETA).
 *   🌍 **Other languages:** Slow and steady. (´• ω •`)
 
 ### ⏰ Schedule & Contact
@@ -20,7 +21,7 @@ I mainly translate projects recommended by the community. I usually use AI chatb
 
 > 💡 **Open Source Spirit (100% Free)**
 > I do this for fun and to support the community. **Never will I charge you a penny.**
-> Using AI Agents for drafting and manual editing for quality, I can usually finish standard projects in **1-4 hours** (depending on complexity). 
+> Using AI Agents for drafting and manual editing for quality, I can usually finish standard projects in **40 mins to 4 hours** (depending on complexity). 
 > However, since I'm a student, I may **decline requests** if I'm overwhelmed with schoolwork or if the project is too complex. Quality over speed! ( ´•̥̥̥ω•̥̥̥` )
 
 ### ⚠️ Disclaimer
