@@ -9,11 +9,14 @@ Hi there! Just a translator. (◍•ᴗ•◍)
 | :--- | :--- |
 | **Working Days** | Weekends only (Online hours are completely random) |
 | **Offline Notice** | May go offline randomly for homework or other stuff. |
-| **How to reach me** | Open an Issue or @ me in any repo I've contributed to. |
+| **How to reach me** | Open a new Issue in my profile repository (see link below). |
 
 ### 📥 Got a project?
 Send it my way! (๑•̀ㅂ•́)و✧ 
 I mainly translate projects recommended by the community. I usually use AI chatbots or direct web searches to find them.
+
+👉 **[Click here to submit a Translation Request](https://github.com/zh-Translator/zh-Translator/issues/)**
+*(Just open a new Issue with your project link and tell me your native language. I will prioritize translating your language first!)*
 
 > 💡 **Open Source Spirit (100% Free)**
 > I do this for fun and to support the community. **Never will I charge you a penny.**
